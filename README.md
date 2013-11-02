@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-My dotfiles config
+Ada's config.
